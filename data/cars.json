@@ -1,0 +1,367 @@
+[
+      
+    {     "id" : 1,
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Land-Rover/Range-Rover-Sport/9115/1653022703223/front-left-side-47.jpg" ,
+          " price":70000,
+          "rent": 700,
+        "car_brand": "Range Rover",
+        "model": "Range Rover Sport",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 23.5,
+        "weight_lbs": 4934,
+        "cargo_capacity_cubic_ft": 27.5,
+        "seating_capacity": 5,
+        "base_price_usd": 69500,
+
+        "engine": {
+          "type": "V6",
+          "displacement": "3.0L",
+          "horsepower": 355,
+          "torque_lb_ft": 365
+        },
+        "fuel_efficiency_km_per_liter": {
+            "city_km_per_liter": "8.6 Km/1-liter",
+            "highway_km_per_liter": "10.5 Km/1-liter",
+            "combined_km_per_liter": "8.7 Km/1-liter"
+          },
+        "dimensions": {
+          "length_in": 192.1,
+          "width_in": 81.6,
+          "height_in": 71,
+          "wheelbase_in": 115.1
+        }
+       
+      },
+
+
+      {
+        "id": 2,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2024-land-rover-range-rover-101-1675357794.jpg?crop=0.689xw:1.00xh;0.182xw,0&resize=768:* ",
+        "car_brand": "Range Rover",
+        " price":80000,
+        "rent": 670,
+        "model": "Range Rover Velar",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 21.6,
+        "weight_lbs": 4360,
+        "cargo_capacity_cubic_ft": 34.4,
+        "seating_capacity": 5,
+        "base_price_usd": 55800,
+        "engine": {
+          "type": "Inline-4",
+          "displacement": "2.0L",
+          "horsepower": 247,
+          "torque_lb_ft": 269
+        },
+
+        "fuel_efficiency_km_per_liter": {
+            "city_km_per_liter": "8.9 Km/1-liter",
+            "highway_km_per_liter": "11.4 Km/1-liter",
+            "combined_km_per_liter": "9.7 Km/1-liter"
+          },
+
+        "dimensions": {
+          "length_in": 189,
+          "width_in": 80.5,
+          "height_in": 65.6,
+          "wheelbase_in": 113.1
+        }
+      } ,
+
+
+
+
+      {
+        "id": 3,
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/max/2024/camry/xse/2548/2pt/36/5.png?fm=png&w=930&q=90 ",
+        "car_brand": "Toyota",
+        "price": 35000,
+        "rent": 500,
+        "model": "Toyota Camry",
+        "year": 2023,
+        "transmission": "Automatic",
+        "drive_type": "Front-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 15.8,
+        "weight_lbs": 3310,
+        "cargo_capacity_cubic_ft": 15.1,
+        "seating_capacity": 5,
+        "base_price_usd": 24950,
+        "engine": {
+          "type": "Inline-4",
+          "displacement": "2.5L",
+          "horsepower": 203,
+          "torque_lb_ft": 184
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "11.2 Km/1-liter",
+          "highway_km_per_liter": "15.8 Km/1-liter",
+          "combined_km_per_liter": "13.5 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 192.1,
+          "width_in": 72.4,
+          "height_in": 56.9,
+          "wheelbase_in": 111.2
+        }
+      },
+
+
+
+      
+      {
+        "id": 4,
+        "image": " https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/z9z35silzxrkaorzfy4t",
+        "car_brand": "Toyota",
+        "price": 42000,
+        "rent": 550,
+        "model": "Toyota RAV4",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Hybrid",
+        "fuel_capacity_gal": 14.5,
+        "weight_lbs": 3700,
+        "cargo_capacity_cubic_ft": 37.6,
+        "seating_capacity": 5,
+        "base_price_usd": 27450,
+        "engine": {
+          "type": "Hybrid",
+          "displacement": "2.5L",
+          "horsepower": 219,
+          "torque_lb_ft": 149
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "16.8 Km/1-liter",
+          "highway_km_per_liter": "20.5 Km/1-liter",
+          "combined_km_per_liter": "18.3 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 180.9,
+          "width_in": 73.0,
+          "height_in": 67.0,
+          "wheelbase_in": 105.9
+        }
+      },
+
+      {
+        "id": 5,
+        "image": "https://i.ytimg.com/vi/yijivf3YPXY/maxresdefault.jpg,",
+        "car_brand": "Rolls-Royce",
+        "price": 380000,
+        "rent": 900,
+        "model": "Rolls-Royce Phantom",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "Rear-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 21.9,
+        "weight_lbs": 5634,
+        "cargo_capacity_cubic_ft": 19.1,
+        "seating_capacity": 4,
+        "base_price_usd": 455000,
+        "engine": {
+          "type": "V12",
+          "displacement": "6.8L",
+          "horsepower": 563,
+          "torque_lb_ft": 664
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "6.7 Km/1-liter",
+          "highway_km_per_liter": "9.4 Km/1-liter",
+          "combined_km_per_liter": "7.8 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 227.2,
+          "width_in": 79.4,
+          "height_in": 64.8,
+          "wheelbase_in": 139.8
+        }
+      },
+
+      {
+        "id": 6,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/p90508471-highres-rolls-royce-ghost-ex-copy-64dbcad7a198e.jpg?crop=0.596xw:0.373xh;0.173xw,0.443xh&resize=1200:* ",
+        "car_brand": "Rolls-Royce",
+        "price": 330000,
+        "rent": 850,
+        "model": "Rolls-Royce Ghost",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 19.8,
+        "weight_lbs": 5467,
+        "cargo_capacity_cubic_ft": 17.0,
+        "seating_capacity": 5,
+        "base_price_usd": 332500,
+        "engine": {
+          "type": "V12",
+          "displacement": "6.8L",
+          "horsepower": 563,
+          "torque_lb_ft": 664
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "6.3 Km/1-liter",
+          "highway_km_per_liter": "8.9 Km/1-liter",
+          "combined_km_per_liter": "7.4 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 218.3,
+          "width_in": 77.9,
+          "height_in": 64.8,
+          "wheelbase_in": 129.7
+        }
+      },
+      {
+        "id": 7,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2024-rolls-royce-cullinan-black-badge-blue-shadow-101-64809ab949271.jpg?crop=0.671xw:0.595xh;0.205xw,0.306xh&resize=1200:* ",
+        "car_brand": "Rolls-Royce",
+        "price": 400000,
+        "rent": 950,
+        "model": "Rolls-Royce Cullinan",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 21.9,
+        "weight_lbs": 6064,
+        "cargo_capacity_cubic_ft": 19.8,
+        "seating_capacity": 5,
+        "base_price_usd": 325000,
+        "engine": {
+          "type": "V12",
+          "displacement": "6.8L",
+          "horsepower": 563,
+          "torque_lb_ft": 664
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "6.1 Km/1-liter",
+          "highway_km_per_liter": "8.7 Km/1-liter",
+          "combined_km_per_liter": "7.2 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 210.0,
+          "width_in": 85.0,
+          "height_in": 72.2,
+          "wheelbase_in": 130.0
+        }
+      },
+      
+
+      {
+        "id": 8,
+        "image": " https://media.ed.edmunds-media.com/bmw/3-series/2023/oem/2023_bmw_3-series_sedan_330i-xdrive_fq_oem_1_1600.jpg",
+        "car_brand": "BMW",
+        "price": 55000,
+        "rent": 400,
+        "model": "BMW 3 Series",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "Rear-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 15.6,
+        "weight_lbs": 3571,
+        "cargo_capacity_cubic_ft": 13.0,
+        "seating_capacity": 5,
+        "base_price_usd": 40950,
+        "engine": {
+          "type": "Inline-4",
+          "displacement": "2.0L",
+          "horsepower": 255,
+          "torque_lb_ft": 295
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "9.8 Km/1-liter",
+          "highway_km_per_liter": "13.8 Km/1-liter",
+          "combined_km_per_liter": "11.6 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 185.7,
+          "width_in": 71.9,
+          "height_in": 56.8,
+          "wheelbase_in": 112.2
+        }
+      },
+      
+      {
+        "id": 9,
+        "image": " https://media.ed.edmunds-media.com/bmw/5-series/2021/oem/2021_bmw_5-series_sedan_530e_fq_oem_1_1600.jpg",
+        "car_brand": "BMW",
+        "price": 60000,
+        "rent": 450,
+        "model": "BMW 5 Series",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 18.0,
+        "weight_lbs": 4012,
+        "cargo_capacity_cubic_ft": 14.0,
+        "seating_capacity": 5,
+        "base_price_usd": 55000,
+        "engine": {
+          "type": "Inline-6",
+          "displacement": "3.0L",
+          "horsepower": 335,
+          "torque_lb_ft": 331
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "8.3 Km/1-liter",
+          "highway_km_per_liter": "12.1 Km/1-liter",
+          "combined_km_per_liter": "10.2 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 195.8,
+          "width_in": 73.5,
+          "height_in": 58.2,
+          "wheelbase_in": 117.1
+        }
+      },
+      
+      
+      {
+        "id": 10,
+        "image": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/9c5be939dd4f51af7001f04249459268 ",
+        "car_brand": "BMW",
+        "price": 70000,
+        "rent": 500,
+        "model": "BMW X5",
+        "year": 2023,
+        "transmission": "8-speed automatic",
+        "drive_type": "All-wheel drive",
+        "fuel_type": "Petrol",
+        "fuel_capacity_gal": 21.9,
+        "weight_lbs": 4980,
+        "cargo_capacity_cubic_ft": 33.9,
+        "seating_capacity": 5,
+        "base_price_usd": 60900,
+        "engine": {
+          "type": "Inline-6",
+          "displacement": "3.0L",
+          "horsepower": 335,
+          "torque_lb_ft": 330
+        },
+        "fuel_efficiency_km_per_liter": {
+          "city_km_per_liter": "7.9 Km/1-liter",
+          "highway_km_per_liter": "10.7 Km/1-liter",
+          "combined_km_per_liter": "9.0 Km/1-liter"
+        },
+        "dimensions": {
+          "length_in": 194.3,
+          "width_in": 78.9,
+          "height_in": 69.0,
+          "wheelbase_in": 117.1
+        }
+      }
+      
+
+]
+
+      

@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "name": "John Doe",
+        "name": "Alice Smith",
         "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review": "The accommodation was fantastic! Clean, spacious, and with a stunning view. I highly recommend it.",
+        "review": "Great experience with CarHub! The cars were in excellent condition and the service was top-notch.",
         "star": 5
     },
     {
         "id": 2,
-        "name": "Janir Smi",
+        "name": "Bob Johnson",
         "image": "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFuJTIwaW1hZ2UlMjBmYWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-        "review": "Great location and cozy atmosphere. The host was very friendly and accommodating.",
+        "review": "Had a good experience renting from CarHub. The selection of luxury cars was impressive.",
         "star": 4
     },
     {
         "id": 3,
-        "name": "Mark John",
+        "name": "Charlie Brown",
         "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hbiUyMGltYWdlJTIwZmFjZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review": "The property exceeded our expectations. It was beautifully furnished and had all the amenities we needed.",
+        "review": "CarHub provided an amazing selection of luxury cars. Will definitely use their services again.",
         "star": 5
     },
     {
         "id": 4,
-        "name": "Emily Thiya",
+        "name": "Diana Clark",
         "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFuJTIwaW1hZ2UlMjBmYWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-        "review": "Clean and well-maintained. We had a comfortable stay and would definitely come back.",
+        "review": "CarHub made my luxury car rental experience hassle-free. The staff was very professional.",
         "star": 4
     },
     {
         "id": 5,
-        "name": "Kaily Jens",
+        "name": "Eva Davis",
         "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review": "The host was incredibly helpful and responsive. The location was perfect for exploring the city.",
+        "review": "CarHub exceeded my expectations. The process was seamless and the car was pristine.",
         "star": 5
     }
 ]
