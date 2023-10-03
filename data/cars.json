@@ -691,7 +691,7 @@
         "transmission": "2-speed automatic",
         "drive_type": "All-wheel drive",
         "fuel_type": "Electric",
-        "fuel_capacity_kWh": 85,
+        "fuel_capacity_gal": 85,
         "weight_lbs": 5269,
         "cargo_capacity_cubic_ft": 9.0,
         "seating_capacity": 5,
@@ -777,6 +777,8 @@
         "cargo_capacity_cubic_ft": 9.7,
         "seating_capacity": 2,
         "base_price_usd": 63200,
+
+
         "engine": {
           "type": "Flat-4",
           "displacement": "2.5L",

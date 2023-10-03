@@ -13,7 +13,17 @@ const maxPages = 10;
 
 app.get('/', (req, res) => {
     res.send('Car-Hub Server is running........');
+
+    app.get('/cars/:id', (req, res) => {
+        const { id } = req.params;
+        const selectedCar = cars.find(car => car.id == id) || {};
+        res.send(selectedCar);
+    });
+
+
 });
+
+
 app.get('/cars/:page', (req, res) => {
     const page = parseInt(req.params.page) || 1;
     const startIndex = (page - 1) * pageSize;
@@ -32,15 +42,6 @@ app.get('/cars/:page', (req, res) => {
 
     res.send({ cars: paginatedCars, paginationInfo });
 });
-
-
-app.get('/cars/:id', (req, res) => {
-    const { id } = req.params;
-    const selectedCar = cars.find(car => car.id == id) || {};
-    res.send(selectedCar);
-});
-
-
 app.get('/cars', (req, res) => {
     res.send(cars);
 })
@@ -48,6 +49,10 @@ app.get('/cars', (req, res) => {
 
 
 
+app.get('/totalCars', (req, res) => {
+    const totalCars = cars.length;
+    res.send({ totalCars });
+});
 
 app.get('/reviews', (req, res) => {
     res.send(reviews);
